@@ -1,0 +1,6 @@
+# This file contains the values for the namespaces to be created
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: backstage
